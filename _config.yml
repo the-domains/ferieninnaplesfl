@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.06462819920666996
-  lightness: 0.3927230247546757
-  rhythmicContrast: 0.8624982693280366
-  saturation: 0.5856345473057519
+    - '#C8D8C8'
+    - '#083060'
+    - '#78A8C0'
+    - '#A04000'
+    - '#C0D8E8'
+  brandStrength: 0.183558
+  lightness: 0.392723
+  rhythmicContrast: 0.902027
+  saturation: 0.796171
 cta: {}
 layout_spectrum: 0.800675
 name: FerieninNaplesfl
